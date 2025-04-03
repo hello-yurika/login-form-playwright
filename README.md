@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="login-preview.png" alt="Preview do formulário de login" width="500"/>
+  <img src="login-ficticio-playwright/login-preview.png" alt="Preview do formulário de login" width="500"/>
 </p>
 
 # ✨ Formulário de Login Fictício + Testes com Playwright ✨
@@ -29,6 +29,10 @@ Ela simula uma tela de login com campos de usuário e senha + botão de entrada.
 
 Os testes foram escritos com **Playwright + TypeScript** e verificam diferentes cenários de login.  
 O ambiente de testes simula um fluxo real de autenticação com base no site de exemplo da Practice Test Automation.
+
+<p align="center">
+  <img src="login-ficticio-playwright/tests/teste.png" alt="Print do teste executado com sucesso" width="500"/>
+</p>
 
 ### Cenários testados:
 
