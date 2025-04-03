@@ -1,4 +1,6 @@
-<img src="./login-preview.png" alt="Preview do formulário de login" width="500"/>
+<p align="center">
+  <img src="login-preview.png" alt="Preview do formulário de login" width="500"/>
+</p>
 
 # ✨ Formulário de Login Fictício + Testes com Playwright ✨
 
